@@ -1,0 +1,6 @@
+{
+  "name": "Practice Lab",
+  "description": "Interactive cybersecurity security practice lab and vulnerability tracker with password strength testing, cryptographic hashing, network subnet diagnostics, and security audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
